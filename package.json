@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@tweenjs/tween.js": "^17.4.0",
-    "funnel-graph-js": "^1.4.1",
+    "funnel-graph-js": "github:Go2Flow/funnel-graph-js",
     "sass": "^1.15.2",
     "polymorph-js": "^0.2.4",
     "sass-loader": "^7.3.1"
